@@ -12,7 +12,6 @@ I’m a tech enthusiast focused on programming, cybersecurity, and practical pro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=l&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=parsaaHb&icon=5&color=4)](https://visitcount.itsvg.in)
 
