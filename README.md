@@ -7,10 +7,6 @@ I’m a tech enthusiast focused on programming, cybersecurity, and practical pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsa-habibi-970422293/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parsahabib_i)
 ---
-# 🔧 Currently working on :
-acquiring Certified Bug Bounty Hunter on HTB
-improving my skills on python 
-acquiring security+ certificate
 
 
 # 💻 Tech Stack:
